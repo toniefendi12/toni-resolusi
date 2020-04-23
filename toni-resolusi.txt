@@ -2,4 +2,4 @@ Toni Resolusi
 - Konsisten untuk belajar programming
 - Membuat aplikasi sebagai penerapan teknis dari hasil belajar
 - Membuat channel youtube tentang penjelasan alur kerja dan fitur aplikasi
-- Menjual aplikasi kepada customer yang berminat
+- Membuat Tim Developer
